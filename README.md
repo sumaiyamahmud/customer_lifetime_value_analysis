@@ -31,3 +31,4 @@ You can download the dataset from here: https://statso.io/customer-lifetime-valu
  
 
 
+![a](https://github.com/sumaiyamahmud/customer_lifetime_value_analysis/assets/113713705/46ace697-00c9-48ae-856a-b4793b28cbc3)
