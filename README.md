@@ -25,7 +25,7 @@ You can download the dataset from here: https://statso.io/customer-lifetime-valu
 
 ## References
 
-
+https://thecleverprogrammer.com/2023/05/01/customer-lifetime-value-analysis-using-python/ 
 
 ## Results and evaluation
  
