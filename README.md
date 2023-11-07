@@ -29,6 +29,26 @@ You can download the dataset from here: https://statso.io/customer-lifetime-valu
 
 ## Results and evaluation
  
-
-
 ![a](https://github.com/sumaiyamahmud/customer_lifetime_value_analysis/assets/113713705/46ace697-00c9-48ae-856a-b4793b28cbc3)
+
+The graph above shows that Customer Acquisition Cost using paid advertising is the highest and email marketing costs the least.
+
+![b](https://github.com/sumaiyamahmud/customer_lifetime_value_analysis/assets/113713705/60e16fc0-3f02-49e2-b0a1-df254c10d948)
+
+The average conversion rate for social media is the highest indicating that it is the most effective channel for converting customers while paid advertising is the least effective.
+
+![c](https://github.com/sumaiyamahmud/customer_lifetime_value_analysis/assets/113713705/a99b5895-c562-4493-8f13-e0fc89567d73)
+
+Email marketing  is the most profitable while social media brings is the least.
+
+![d](https://github.com/sumaiyamahmud/customer_lifetime_value_analysis/assets/113713705/fc925312-341d-4105-97df-a9ecb8d17149)
+
+The ROI from email marketing is much higher than the other channels, while the ROI from paid advertising is the lowest.
+
+![e](https://github.com/sumaiyamahmud/customer_lifetime_value_analysis/assets/113713705/70dda418-01c5-4d42-8b15-94e3be929281)
+
+The customer lifetime value from Social Media and referral channels are the highest.
+
+![f](https://github.com/sumaiyamahmud/customer_lifetime_value_analysis/assets/113713705/79565c2f-e17b-48f2-8ec9-25962fbda0c4)
+
+There is a minor difference between the two distributions as shown above. Customer Lifetime Value from the Social Media channel is slightly better than the referral channel.
